@@ -41,17 +41,10 @@
  
 ### 📌 Top Repositories
  
-<a href="https://github.com/rrbha/cats---dogs----classifier">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rrbha&repo=cats---dogs----classifier&theme=midnight-purple" />
-</a>
-<a href="https://github.com/rrbha/first-ecommerce-website">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rrbha&repo=first-ecommerce-website&theme=midnight-purple" />
-</a>
-<a href="https://github.com/rrbha/GUI-project">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rrbha&repo=GUI-project&theme=midnight-purple" />
-</a>
-<br/><br/>
- 
+- 🌸 [cats---dogs----classifier](https://github.com/rrbha/cats---dogs----classifier)
+- 🌸 [first-ecommerce-website](https://github.com/rrbha/first-ecommerce-website)
+- 🌸 [GUI-project](https://github.com/rrbha/GUI-project)
+  
 ---
  
 ### 💌 Connect with me
