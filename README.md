@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="60%" alt="Arab's GitHub profile header" src="./header.svg" />
+  <img width="100%" alt="Arab's GitHub profile header" src="./header (1).svg" />
 </p>
 
 <br/>
